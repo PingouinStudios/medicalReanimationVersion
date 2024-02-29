@@ -1,1 +1,1 @@
-0.6.1
+0.6.1|Known bugs at the moment on sync. We're doing our best to resolve !
